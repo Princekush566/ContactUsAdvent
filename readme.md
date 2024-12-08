@@ -41,7 +41,7 @@ This project is a responsive **Contact Us page** for **Advent Chembio Pvt. Ltd.*
 
 4. Open the project in a web browser:
    ```bash
-   open index.html
+   open Contactus.html
    ```
 
 ## File Structure
