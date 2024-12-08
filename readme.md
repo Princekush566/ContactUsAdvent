@@ -46,7 +46,7 @@ This project is a responsive **Contact Us page** for **Advent Chembio Pvt. Ltd.*
 
 ## File Structure
 
-- `index.html`: Main HTML file containing the structure of the page.
+- `Contactus.html`: Main HTML file containing the structure of the page.
 - `output.css`: Compiled Tailwind CSS styles.
 - `style.css`: Additional custom styles.
 - `script.js`: JavaScript for interactivity (e.g., form handling).
